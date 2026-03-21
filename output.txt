@@ -1,0 +1,1 @@
+Roll No: 101, Name: "heet", Marks: [12, 13, 15, 19], Average: 14.75
